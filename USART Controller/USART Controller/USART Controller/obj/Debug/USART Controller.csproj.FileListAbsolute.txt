@@ -1,0 +1,50 @@
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe.config
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csprojAssemblyReference.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Properties.Resources.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.GenerateResource.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Form1.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe.config
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Form1.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Properties.Resources.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.GenerateResource.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar 2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csprojAssemblyReference.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe.config
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csprojAssemblyReference.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Form1.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Properties.Resources.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.GenerateResource.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Assignment USART\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe.config
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.pdb
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csprojAssemblyReference.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Form1.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Properties.Resources.resources
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.GenerateResource.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.exe
+C:\Users\Mart\Desktop\SchoolSaxion\Jaar2\MC2\Final Assignment\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.pdb
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe.config
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.exe
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\bin\Debug\USART Controller.pdb
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csprojAssemblyReference.cache
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Form1.resources
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART_Controller.Properties.Resources.resources
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.GenerateResource.cache
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.csproj.CoreCompileInputs.cache
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.exe
+C:\Gitlocal\AdjustableDSPUnit\USART Controller\USART Controller\USART Controller\obj\Debug\USART Controller.pdb
